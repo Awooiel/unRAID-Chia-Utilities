@@ -1,6 +1,6 @@
 unRAID Chia Utilities
 =====================
-What do these do? They help reduce the workload on the user by automating the proccess of maintaining Machinaris harvestors and plotters on unRAID
+What do these do? They help reduce the workload on the user by automating the proccess of maintaining Machinaris harvesters and plotters on unRAID
 
 ```
 1. Install unRAID Community Applications plugin

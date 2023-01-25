@@ -8,4 +8,3 @@ What do these do? They help reduce the workload on the user by automating the pr
 3. Make new script (Settings>User Scripts>Add New Script)
 4. Utilize and modify bash files you find on here to fill your needs.
 ```
-- ♡Awooiel♡
